@@ -2,11 +2,11 @@
 
 This is my obsidian-vault, personal-knowledge-management system (PKM), second-brain... whatever you want to call it.
 
-## Why?
+### Why?
 
 I am an easily distracted person, I procrastinate a lot, I waste time... I probably have ADHD and many other stuff I don't even know the name of. These stuff sometimes are superpowers and sometimes my greatest curse, I just started to learn, understand and control them. Exactly like how I just started being conscious, probably.
 
-## How I Achieve This?
+### How I Achieve This?
 
 To keep myself from wasting time and not being in flow, being productive, I'm minimizing distractions and keeping everything simple but powerful. Plugins I have are plugins I use on daily basis, theme I have is Minimal, which is a - you guessed it - a minimal theme that minimizes distractions.
 
